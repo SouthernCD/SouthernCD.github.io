@@ -1,12 +1,22 @@
 ---
 layout: post
 title:  "hello jekyll!"
-date:   2015-02-10 15:14:54
+date:   2018-03-19 10:00:00 +0800
 categories: jekyll
 tags: jekyll
-excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+author: Yuxing Xu
 mathjax: true
 ---
+
+* content
+{:toc}
+
+第一篇blog文章，感谢[Gaohaoyang](https://github.com/Gaohaoyang)和[徐代龙](https://github.com/643435675)关于在github上搭建blog的介绍和模板，这篇文章主要是留一个模板，并没有实际意义。
+
+
+
+
+## blog
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
