@@ -27,6 +27,11 @@ type: page
     
     学术搜索
     
+* [浙江省图书馆](http://www.zjlib.cn/)
+
+    浙江省图书馆：可下载中文期刊
+    
+    
 ### 博客，教程与课程
 
 * [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
