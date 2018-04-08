@@ -18,7 +18,7 @@ mathjax: true
 
 ## lesson 1: A Puma at large
 
-*A Puma at large 逃遁的美洲狮*
+**A Puma at large 逃遁的美洲狮**
 
 Listen to the tape then answer the question below.
 听录音，然后回答以下问题。
@@ -29,7 +29,7 @@ Pumas are large, cat-like animals which are found in America. When reports came 
 
 The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her. It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered. The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of "cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from? As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.
 
-*New words and expressions 生词和短语*
+**New words and expressions 生词和短语**
 
 puma n. 美洲狮
 
@@ -61,7 +61,7 @@ somehow adv. 不知怎么搞地，不知什么原因
 
 disturb v. 令人不安
 
-*参考译文*
+**参考译文**
 
 美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。
 
@@ -72,7 +72,7 @@ disturb v. 令人不安
 
 ## lesson 2: Thirteen equals one
 
-*Thirteen equals one 十三等于一*
+**Thirteen equals one 十三等于一**
 
 Listen to the tape then answer the question below.
 听录音，然后回答以下问题。
@@ -93,7 +93,7 @@ That's the trouble, vicar,' answered Bill. 'It's working all right, but I'm afra
 
 We'll get used to that, Bill,' said the vicar. "Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.'
 
-*New words and expressions 生词和短语*
+**New words and expressions 生词和短语**
 
 equal v. 等于
 
@@ -103,7 +103,7 @@ raise v. 募集，筹(款)
 
 torchlight n. 电筒光
 
-*参考译文*
+**参考译文**
 
 我们教区的牧师总是为各种各样的事筹集资金。但始终未能筹足资金把教堂的钟修好。教堂的钟很大，以前不分昼夜打点报时，但很多年前遭到毁坏，从此便无声无息了。
 
@@ -124,7 +124,7 @@ torchlight n. 电筒光
 
 ## lesson 3: An unknown goddess
 
-*An unknown goddess 无名女神*
+**An unknown goddess 无名女神**
 
 Listen to the tape then answer the question below.
 听录音，然后回答以下问题。
@@ -135,7 +135,7 @@ Some time ago, an interesting discovery was made by archaeologists on the Aegean
 
 The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. In the most sacred room of temple, clay fragments of fifteen statues were found. Each of these represented a goddess and had, at one time, been painted. The body of one statue was found among remains dating from the fifteenth century B.C. It's missing head happened to be among remains of the fifth century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips. She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
 
-*New words and expressions 生词和短语*
+**New words and expressions 生词和短语**
 
 goddess(tile) n. 女神
 
@@ -177,7 +177,7 @@ graceful adj. 优雅的
 
 identity n. 身份
 
-*参考译文*
+**参考译文**
 
 不久之前，在爱琴海的基亚岛上，考古工作者有一项有趣的发现。一个美国考古队在阿伊亚.依里尼海角的一座古城里考察了一座庙宇。这座古城肯定一度很繁荣，因为它曾享有高度的文明，房子一般有3层楼高，用石块修建。里面房间很大，墙壁装饰华丽。城里甚至还敷设了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水管道。
 
@@ -188,7 +188,7 @@ identity n. 身份
 
 ## Lesson 4: The double life of Alfred Bloggs
 
-*The double life of Alfred Bloggs 阿尔弗雷德.布洛格斯的双重生活*
+**The double life of Alfred Bloggs 阿尔弗雷德.布洛格斯的双重生活**
 
 Listen to the tape then answer the question below.
 听录音，然后回答以下问题。
@@ -199,7 +199,7 @@ These days, people who do manual work often receive far more money than people w
 
 When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.
 
-*New words and expressions 生词和短语*
+**New words and expressions 生词和短语**
 
 manual adj. 体力的
 
@@ -221,7 +221,7 @@ secret n. 秘密
 
 status n. 地位
 
-*参考译文*
+**参考译文**
 
 如今，从事体力劳动的人的收入一般要比坐办公室的人高出许多。坐办公室的之所以常常被称作“白领工人”，就是因为他们通常是穿着硬领白衬衫，系着领带去上班。许多人常常情愿放弃较高的薪水以换取做白领工人的殊荣，此乃人之常情。而这常常会引起种种奇怪的现象，在埃尔斯米尔公司当清洁工的艾尔弗雷德.布洛斯就是一个例子。
 
@@ -232,7 +232,7 @@ status n. 地位
 
 ## lesson 5: The facts
 
-*The facts 确切数字*
+**The facts 确切数字**
 
 Listen to the tape then answer the question below.
 听录音，然后回答以下问题。
@@ -243,7 +243,7 @@ Editors of newspapers and magazines often go to extremes to provide their reader
 
 The journalist immediately set out to obtain these important facts, but he took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
 
-*New words and expressions 生词和短语*
+**New words and expressions 生词和短语**
 
 editor n. 编辑
 
@@ -267,7 +267,7 @@ fire v. 解雇
 
 originally adv. 起初，原先，从前
 
-*参考译文*
+**参考译文**
 
 报刊杂志的编辑常常为了向读者提供成立一些关紧要的事实和统计数字而走向极端。去年，一位记者受一家有名的杂志的委托写一篇关于非洲某个新成立共和国总统府的文章。稿子寄来后，编辑看第一句话就拒绝予以发表。文章的开头是这样的：“几百级台阶通向环绕总统的高墙。”编辑立即给那位记者发去传真，要求他核实一下台阶的确切数字和围墙的高度。
 
