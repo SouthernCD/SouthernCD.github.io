@@ -5,7 +5,7 @@ date:   2018-04-04 10:00:00 +0800
 categories: English
 tags: English
 author: Yuxing Xu
-mathjax: true
+mathjax: false
 ---
 
 * content
