@@ -18,6 +18,10 @@ type: page
     Biopython
 
 ### 在线工具
+    
+* [reverse-complement](http://www.reverse-complement.com/)
+
+    reverse-complement
 
 ## 资源
 
