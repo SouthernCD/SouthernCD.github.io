@@ -11,7 +11,7 @@ mathjax: true
 * content
 {:toc}
 
-新概念英语3课文
+新概念英语3课文，[搬运](http://www.yingyu.com/xxyy/xingainianyingyu/newsance/index_2.shtml)
 
 
 
@@ -186,7 +186,7 @@ identity n. 身份
 
 
 
-## Lesson 4: The double life of Alfred Bloggs
+## lesson 4: The double life of Alfred Bloggs
 
 **The double life of Alfred Bloggs 阿尔弗雷德.布洛格斯的双重生活**
 
@@ -274,3 +274,255 @@ originally adv. 起初，原先，从前
 记者立即出发去核实这些重要的事实，但过了好长时间不见他把数字寄来，在此期间，编辑等得不耐烦了，因为杂志马上要复印。他给记者先后发去两份传真，但对方毫无反应。于是他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑无奈，勉强按原样发稿了。一周之后，编辑终于接到记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。不过，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的1，084级台阶时，被抓了起来。
 
 
+
+
+## lesson 6: Smash and grab
+
+**Smash-and-grab 砸橱窗抢劫**
+
+Listen to the tape then answer the question below.
+听录音，然后回答以下问题。
+
+How did Mr. Taylor try to stop the thieves?
+
+The expensive shops in a famous near Piccadilly were just "opening. At this time of the morning, the arcade was almost empty. Mr. Taylor, the owner of a jewellery shop was admiring a new display. Two of his assistants had been working busily since eight o'clock and had only just finished. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop.
+
+The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. It came to a stop outside the jeweller's. One man stayed at the wheel while two others with black stocking over their faces jumped out and smashed the window of the shop with iron bars. While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade. One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds.
+
+**New words and expressions 生词和短语**
+
+smash-and-grab n. 砸橱窗抢劫
+
+arcade n. 有拱廊的街道(两旁常设商店)
+
+Piccadilly n. 皮卡迪利大街
+
+jewellery n. 珠宝(总称)
+
+necklace n. 项链
+
+ring n. 戒指
+
+background n. 背景
+
+velvet n. 天鹅绒，丝绒
+
+headlight n. (汽车等)前灯
+
+blare v. 发嘟嗜声，吼叫
+
+staff n. 全体工作人员
+
+raid n. 偷袭
+
+scramble n. 偷袭
+
+scramble v. 爬行
+
+fantastic adj. 非常大的
+
+ashtray n. 烟灰缸
+
+**参考译文**
+
+皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始营业。在早晨的这个时候，拱廊街上几乎空无一人。珠宝店主泰勒先生正在欣赏新布置的橱窗。他手下两名店员从早上8点就开始忙碌，这时刚刚布置完毕。钻石项链、戒指漂亮地陈列在黑色丝绒上面。泰勒先生站在橱窗外凝神欣赏了几分钟就回到了店里。
+
+宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街，在珠宝店门口停了下来。一人留在驾驶座上，另外两个用黑色长筒丝袜蒙面的人跳下车来。他们用铁棒把商店橱窗的玻璃砸碎。这开始发生时，泰勒先生正在楼上。他与店员动手向窗外投掷家具，椅子，桌子飞落花流水在拱廊街上。一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。这场抢劫只持续了3分钟，因为窃贼争先恐后地爬上轿车，以惊人的速度开跑了。就在轿车离开的时候，泰勒先生从店里冲了出来，跟在车后追赶，一边还往车上扔烟灰缸、花瓶。但他已无法抓住那些窃贼了。他们已带着价值数千镑的首饰逃之夭夭了。
+
+
+
+
+## lesson 7: Mutilated ladies
+
+**Mutilated ladies 残钞鉴别组**
+
+Listen to the tape then answer the question below.
+听录音，然后回答以下问题。
+
+Why did Jane cook John's wallet?
+
+Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? When you rescued your trousers, did note in your back pocket? When you rescued your trousers, did you find the note was whiter than white? People who live in Britain needn't despair when they made mistakes like this (and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog. Dogs, it seems, love to chew up money!
+
+A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. John had very good day and put his wallet containing $3,000 into the microwave oven for safekeeping. Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilate Ladies! They examined the remain and John got all his money back. 'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank. 'Last year, we paid $1.5m on 21,000 claims. Damaged bank notes. The Queen's head appears on English bank notes, and 'lady' refers to this.
+
+**New words and expressions 生词和短语**
+
+mutilate v. 使残缺不全
+
+chew v. 咀嚼
+
+microwave n. 微波，微波炉
+
+oven n. 炉灶
+
+safekeeping n. 妥善保管
+
+Newcastle n. 纽卡斯尔(英国港市)
+
+identify v. 鉴定，识别
+
+spokeswoman n. 女发言人
+
+**参考译文**
+
+这种事情在你身上出现过吗?你有没有把裤子塞洗衣机，然后又想在裤子的后兜有一张大面值的纸币?当你把裤子抢救出来时，你有没有发现那张纸币已经变得比白纸还白?当英国人犯这种错误时，他们不必感到绝望(而许多国家的人都有这种绝望的感觉)。对英国人来说，值得庆幸的是英国银行有一个残钞鉴别组，负责理那些把钱塞进机器或塞给狗的人提出的索赔要求。看起来，狗很喜欢咀嚼钱币。
+
+最近的一个案例与简.巴特林有关，她的未婚夫约翰拥有一家生意兴隆家具店。有一天约翰的生意很好，他把一只装有3,000 英镑的钱包放进微波炉内保存。然后，他和简一起去骑马。回家后，简用微波炉煮了晚饭，无意中之中把她未婚夫的钱包也一起煮了。可以想像他们发现一只煮得很好看的钱包，钞票已化成灰时的沮丧心情。约翰去找银行经理，经理把约翰的钱包和纸币的残留物送到英国银行在纽卡斯尔的一个专门部门——残钞鉴别组。他们鉴定了这些残留物。约翰拿回了他损失的全部数额。“只要有东西可供识别，我们会把钱还给人家的，”银行的一位女发言人说。“去年，我们对21，000 起索赔要求支付了150万英镑。”
+
+
+
+
+## lesson 8: A famous monastery
+
+**A famous monastery 著名的修道院**
+
+Listen to the tape then answer the question below.
+听录音，然后回答以下问题。
+
+What are the St. Bernard dogs used for?
+
+The Great St. Bernard Pass connects Switzerland to Italy. At 2,473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, witch was founded in eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times. Now that a tunnel ahs been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+
+During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure. In winter, however, life at the monastery is quite different. The temperature drops to -- 30 o and very few people attempt to cross the Pass. The monks prefer winter to summer of they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of mountains, always receive a warm welcome at St. Bernard's monastery.
+
+**New words and expressions 生词和短语**
+
+monastery n. 寺院，修道院
+
+St. Bernard 圣伯纳德
+
+pass n. 关隘
+
+watchdog n. 看门狗
+
+rashly adj. 莽撞地，冒失地
+
+enclosure n. 围场，圈地
+
+monk n. 和尚
+
+privacy n. 清静，隐居
+
+skier n. 滑雪者
+
+Easter n. 复活节
+
+**参考译文**
+
+圣伯纳德大山口连接着瑞士与意大利，海拔2,473O米，是欧洲最高的山口。11世纪建造的著名的圣伯纳德修道院位于离山口1英里远的地方。几百年来，圣伯纳德修道院驯养狗拯救了许多翻越这道山口的旅游者的生命。那些最先从亚洲引进的狗，待人友好，早在罗马时代就给人当看门狗了。如今由于山里开挖了隧道，翻越山口已不那么危险了。但每年还要派狗到雪山地里去帮助那些遇到困难的旅游者，尽管修通了隧道，但仍有一些人想冒险徒步跨越圣伯纳德山口。
+
+夏天的几个月里，修道院十分忙碌，因为有成千上万的人驾车通过山口，顺道来修道院参观。由于来人太多，狗被关在专门的围栏里。然而到了冬天，修道院里的生活则是另一番景象。气温下降到零下30度，试图跨越山口的人寥寥无几。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过无人打扰的生活。狗也比较自由，被放出围栏，四处遛达。冬天常来修道院参观的只有一批批滑雪者。他们在圣诞节或复活节到那儿去。这些热爱高山清静环境的年轻人每年都受到圣伯纳德道院的热烈欢迎。
+
+
+
+
+## lesson 9: Flying cats
+
+**Flying cats 飞猫**
+
+Listen to the tape then answer the question below.
+听录音，然后回答以下问题。
+
+How do cats try to protect themselves when falling from great heights?
+
+Cats never fail to fascinate human beings. They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. They never become submissive like dogs and horses. As a result, humans have learned to respect feline independence. Most cats remain suspicious of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is a good deal of truth in this idea. A cat's ability to survive falls is based on fact.</p>
+
+Recently the New York Animal Medical Center made a study of 132 cats over a period of five months. All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries. Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings. There are plenty of high-rise windowsills to fall from! One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth. 'Cats behave like well-trained paratroopers.' a doctor said. It seems that the further cats fall, the less they are likely to injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax. They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.</p>
+
+**New words and expressions 生词和短语**
+
+fascinate v. 迷住，吸引住
+
+affectionate adj. 充满深情，柔情的
+
+mysterious adj. 神秘的，难以理解的
+
+submissive adj. 服从的，顺从的
+
+feline adj. 猫的
+
+independence n. 独立，独立性
+
+high-rise adj. 高层的
+
+windowsill n. 窗槛
+
+paratrooper n. 伞兵
+
+squirrel n. 松鼠
+
+air-resistance n. 空气阻力
+
+impact n. 冲击力
+
+**参考译文**
+
+猫总能引起人们的极大兴趣。它们可以对人友好，充满柔情。但是，它们又有自己神秘的生活方式。它们从不像狗和马一样变得那么顺从。结果是人们已经学会尊重猫的独立性。在它们的一生中，大多数猫都对人存有戒心。最使我们感兴趣的一件事情就是一种通俗的信念——猫有九条命。显然，这种说法里面包含着许多真实性。猫在跌落时能够大难不死是有事实作为依据的。
+
+最近，纽约动物医疗中心对132只猫进行了为期5个月的综合研究。所有这些猫有一个共同的经历：它们都曾从高层建筑上摔下来过，但只有其中的8只猫死于震荡或跌伤。当然，纽约是进行这种有趣的试验的一个理想的地方，因为那里根本不缺乏高楼大厦，有的是高层的窗槛从上往下坠落。有一只叫萨伯瑞的猫从32层楼上掉下来，但只摔断一颗牙。“猫就像训练有素的跳伞队员，” 一位医生说。看起来，猫跌落的距离越长，它们就越不会伤害自己。在一个长长的跌落过程中，它们可以达到每小时60里甚至更快的速度。在高速下落中，猫有时间放松自己。它们伸展四肢，就像飞行中的松鼠一样。这样就加大了空气阻力，并减少了它们着地时冲击力带来的震动。
+
+
+
+
+## lesson 10: The loss of the Titanic
+
+**The loss of the Titanic “泰坦尼克”号的沉没**
+
+Listen to the tape then answer the question below.
+听录音，然后回答以下问题。
+
+What would have happened if only two of the sixteen water-tight compartments had been flooded?
+
+The great ship, Titanic, sailed for New York from Southampton on April 10th, 1912. She was carrying 1,316 passengers and crew of 891. Even by modern standards, the 46,000 ton Titanic was a colossal ship. At the time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments. Even if two of these were flooded, she would still be able to float. The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+
+Four days after setting out, while the Titanic was sailing across the icy water of the North Atlantic, huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct collision. The Titanic turned just in time, narrowly missing the immense walk of ice which rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened. The noise had been so faint that no one though that the ship had been damaged. Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people plunged into the icy water. As there were not enough lifeboats for everybody, 1,500 lives were lost.
+
+**New words and expressions 生词和短语**
+
+Southampton n. 南安普敦(英国港市)
+
+colossal adj. 庞大的
+
+watertight adj. 不漏水的
+
+compartment n. (轮船的)密封舱
+
+flood v. 充满水
+
+float v. 漂浮，飘浮
+
+tragic adj. 悲惨的
+
+liner n. 班船
+
+voyage n. 航行
+
+iceberg n. 冰山
+
+lookout n. 了望员
+
+collision n. 碰撞
+
+narrowly adv. 刚刚，勉强地
+
+miss v. 避开
+
+slight adj. 轻微的
+
+tremble v. 震颤
+
+faint  adj. 微弱的
+
+horror n. 恐惧
+
+abandon v. 抛弃
+
+plunge v. 投入，跳入
+
+lifeboat n. 救生船
+
+**参考译文**
+
+巨轮“泰坦尼克”号1912年4月10日从南安普敦起锚驶向纽约。船上载有1,316名乘客与891名船员。却使用现代标准来衡量，45,000 吨的“泰坦尼克”号与算得上一艘巨轮了。当时，这艘轮船不仅是造船史上建造的最大的一艘船，而且也被认为是不会沉没的。因为船由16个密封舱组成，即使有两个舱进水，仍可漂浮的水面上。然而，这艘巨轮首航就下沉，造成大批人员死亡。人们将永远记着这艘巨轮的沉没惨剧。
+
+“泰坦尼克”起航后的第4天，它正行驶在北大西洋冰冷的海面上。突然，了望员发现一座冰山。警报响过不久，巨轮急转弯，以避免与冰山正面相撞。“泰坦尼克”这个弯拐得及时，紧贴着高出海面100英尺的巨大的冰墙擦过去。突然，从船舱下部传来一声微颤音，船长走下船舱去查看究竟。由于这个声音非常轻，没人会想到船身已遭损坏。在下面，船长惊恐的地发现“泰坦尼克”号正在急速下沉，16个密封舱已有5个进水。于是，他发出弃船的命令，几百人跳进了冰冷刺骨的海水里。由于没有足够的救生艇运载所有乘客，结果，1,500 人丧生。

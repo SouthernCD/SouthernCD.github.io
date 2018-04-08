@@ -31,6 +31,7 @@ type: page
 
 * GitHub：[SouthernCD](https://github.com/SouthernCD)
 * email：xuyuxing14@mails.ucas.ac.cn
+* researchgate: [Yuxing_Xu](https://www.researchgate.net/profile/Yuxing_Xu)
 
 ## 友情链接
 
