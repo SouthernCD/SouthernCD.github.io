@@ -31,6 +31,10 @@ type: page
 
 ### 文献和书籍
 
+* [Computational and Inferential Thinking: The Foundations of Data Science](https://www.inferentialthinking.com/)
+
+    data8 推荐的基础教材，[textbook source](https://github.com/data-8/textbook)
+
 * [sciencesoft](http://www.sciencesoft.cn/so/)
     
     学术搜索
@@ -38,7 +42,8 @@ type: page
 * [浙江省图书馆](http://www.zjlib.cn/)
 
     浙江省图书馆：可下载中文期刊
-    
+
+
     
 ### 博客，教程与课程
 
