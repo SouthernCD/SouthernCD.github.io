@@ -35,6 +35,10 @@ type: page
 
     data8 推荐的基础教材，[textbook source](https://github.com/data-8/textbook)
 
+* [Python Data Science Handbook Python数据科学手册](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+    python数据科学常用工具
+
 * [sciencesoft](http://www.sciencesoft.cn/so/)
     
     学术搜索
